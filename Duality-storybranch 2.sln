@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2252A3CA-7733-569D-3926-FF01AFDC5F2C}") = "Duality-storybranch 2", "Assembly-CSharp.csproj", "{721320A3-6233-3C02-D995-AD5AFC61E061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721320A3-6233-3C02-D995-AD5AFC61E061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721320A3-6233-3C02-D995-AD5AFC61E061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721320A3-6233-3C02-D995-AD5AFC61E061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721320A3-6233-3C02-D995-AD5AFC61E061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

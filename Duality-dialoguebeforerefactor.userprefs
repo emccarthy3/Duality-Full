@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle/TeamAttack.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Battle/AttackableState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/AliveState.cs" Line="13" Column="4" />
+      <File FileName="Assets/Scripts/Battle/Battle.cs" Line="240" Column="24" />
+      <File FileName="Assets/Scripts/Quiz/Quiz.cs" Line="92" Column="42" />
+      <File FileName="Assets/Scripts/Battle/NoHealState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/AbstractBattle.cs" Line="30" Column="2" />
+      <File FileName="Assets/Scripts/Battle/UIController.cs" Line="271" Column="2" />
+      <File FileName="Assets/Scripts/Battle/Action.cs" Line="29" Column="91" />
+      <File FileName="Assets/Scripts/Battle/StrongAttack.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Battle/Character.cs" Line="74" Column="28" />
+      <File FileName="Assets/Scripts/Battle/ArrowFlurry.cs" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/Battle/FatalBlow.cs" Line="18" Column="4" />
+      <File FileName="Assets/Scripts/Battle/StatusEffectAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/TeamAttack.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/Battle/AbstractRhythmGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/Warrior.cs" Line="21" Column="53" />
+      <File FileName="Assets/Scripts/Battle/Ranger.cs" Line="21" Column="56" />
+      <File FileName="Assets/Scripts/Battle/Magician.cs" Line="21" Column="49" />
+      <File FileName="Assets/Scripts/Battle/MindBoggle.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

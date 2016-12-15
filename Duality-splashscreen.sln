@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FBD1DBA8-354A-8FFE-C293-F6C5AE0000ED}") = "Duality-splashscreen", "Assembly-CSharp.csproj", "{EFAEB5A8-FD2A-8D5B-42A5-40C07C8F8CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAEB5A8-FD2A-8D5B-42A5-40C07C8F8CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAEB5A8-FD2A-8D5B-42A5-40C07C8F8CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAEB5A8-FD2A-8D5B-42A5-40C07C8F8CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAEB5A8-FD2A-8D5B-42A5-40C07C8F8CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

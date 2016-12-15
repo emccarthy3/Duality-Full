@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Character.cs">
+    <Files>
+      <File FileName="Assets/Battle.cs" Line="17" Column="2" />
+      <File FileName="Assets/UIController.cs" Line="76" Column="7" />
+      <File FileName="Assets/Character.cs" Line="50" Column="3" />
+      <File FileName="Assets/Moves.cs" Line="36" Column="1" />
+      <File FileName="Assets/SingleAttack.cs" Line="6" Column="2" />
+      <File FileName="Assets/ClassType.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy.cs" Line="9" Column="17" />
+      <File FileName="Assets/Ally.cs" Line="35" Column="20" />
+      <File FileName="Assets/Player.cs" Line="17" Column="3" />
+      <File FileName="Assets/TeamAttack.cs" Line="14" Column="2" />
+      <File FileName="Assets/MoveChooser.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

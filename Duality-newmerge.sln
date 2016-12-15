@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4F10FADC-5C75-3307-54F6-2611150EE29D}") = "Duality-newmerge", "Assembly-CSharp.csproj", "{C0031866-8344-1650-EA49-5BB895AFF282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0031866-8344-1650-EA49-5BB895AFF282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0031866-8344-1650-EA49-5BB895AFF282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0031866-8344-1650-EA49-5BB895AFF282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0031866-8344-1650-EA49-5BB895AFF282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

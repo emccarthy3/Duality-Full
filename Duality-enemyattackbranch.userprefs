@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle/HealthBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Battle/TeamAttackChooser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/UIController.cs" Line="88" Column="2" />
+      <File FileName="Assets/Scripts/Battle/RhythmController.cs" Line="32" Column="35" />
+      <File FileName="Assets/Scripts/Battle/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/TeamAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/NoteScript.cs" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/Battle/SingleAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/Battle.cs" Line="72" Column="28" />
+      <File FileName="Assets/Scripts/RPG.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/EnemyChooser.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/Quiz/Quiz.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/Duality-battleprogressbranch/Assets/Scripts/Quiz/Quiz.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Dialogue/YesNoDialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/ClassType.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/Duality-battleprogressbranch/Assets/Scripts/RPG.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/State.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/Action.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/Warrior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/StatusEffectAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Battle/HealthBar.cs" Line="11" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
